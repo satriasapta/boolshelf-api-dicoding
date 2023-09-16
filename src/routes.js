@@ -37,4 +37,5 @@ const routes = [
         handler: deleteBookByIdHandler,
     },
 ];
+
 module.exports = routes;
